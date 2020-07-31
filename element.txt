@@ -1,0 +1,17 @@
+边框：
+border:width style color;
+border-radius：px左上到左下（圆角）
+border-bottom-right-radius:设置下面右边圆角。水平轴，高度轴
+border-(left/right/bottom/top)-color/width:（颜色和宽度）
+（dotted点线   dashed虚线 double双线边框
+solid实线 groove凹槽边框  ridge垄状边框
+inset嵌入边框 outset外凸边框 hidden隐藏边框
+box-shadow：x偏移，y偏移，阴影模糊半径，阴影扩展半径，阴影颜色，投影方式（inset内阴影，默认方式是outset外阴影））
+border-image：source slice width outset repeat；
+border-image-source：none/url（）
+border-image-slice：
+
+
+
+
+
